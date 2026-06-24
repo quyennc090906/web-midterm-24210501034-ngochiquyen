@@ -115,17 +115,14 @@ ${c.date}
 ${c.desc}
 </p>
 
-</button>
+<button
 class="btn btn-info"
 onclick="detail(${c.id})">
-
 Chi tiết
-
 </button>
 
 <a href="register.html?id=${c.id}"
 class="btn btn-danger">
-
 Đăng ký
 
 </a>
