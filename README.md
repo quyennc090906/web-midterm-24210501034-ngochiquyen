@@ -10,7 +10,7 @@
 
 ## 2. Mô tả dự án
 
-EduMini là website hỗ trợ giới thiệu và đăng ký các khóa học lập trình trực tuyến.
+Quyển Academy là website hỗ trợ giới thiệu và đăng ký các khóa học lập trình trực tuyến.
 
 Người dùng có thể:
 
